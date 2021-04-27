@@ -101,7 +101,10 @@ footer{
   border-radius: 5px;
 }
 
-
+.about-p{
+  line-height: 2.0;
+  font-size: 30px;
+}
 
 p{
   font-size: 20px;
